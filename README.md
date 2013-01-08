@@ -24,7 +24,7 @@ Lab406_CookBook
 
 Markdown語法可以很方便的進行簡單排版,而且非常好上手,身為懶人當然要使用 誤)
 
-在編輯之前請先學習使用Markdown，直接點開 [markdown.md] (https://github.com/vansteki/Lab406_CookBook/blob/master/markdown.md) ，接著在GitHub的內建編輯器裡就可以開始了!
+在編輯之前請先學習使用Markdown，直接點開 [markdown.md] (https://github.com/vansteki/Lab406_CookBook/blob/master/markdown.md) ，接著在GitHub的內建編輯器裡點下Edit就可以開始了!
 
 
 ##想更了解Markdown
