@@ -1,4 +1,4 @@
-##Markdown 有完沒完?
+##Markdown 有完沒完? 看別人的範例學最快了!
 
 GitHub Flavored Markdown
 ================================
