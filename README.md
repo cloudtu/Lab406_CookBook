@@ -16,9 +16,9 @@ Lab406_CookBook
 
 ##Markdown
 
-看到一堆 .md 結尾的檔案覺得很奇怪?
+看到一堆 .md 結尾的檔案覺得很奇怪?　(這份文件的檔名叫 README.md)
 
-這是因為這裡的文件適用Markdown語法所寫的，目前許多服務或編輯器也都接受Markdown語法(例如 Wiki)
+因為這些文件是用Markdown語法所寫的，目前許多服務或編輯器也都接受Markdown語法(例如 Wiki)
 
 其中GitHub所使用的Markdown語法又稱為 [GFM (github-flavored-markdown)] (http://github.github.com/github-flavored-markdown/ "GFM")
 
