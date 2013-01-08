@@ -27,6 +27,8 @@ Markdown語法可以很方便的進行簡單排版,而且非常好上手,身為�
 在編輯之前請先學習使用Markdown,直接在GitHub的內建編輯器裡就可以開始了!
 
 想更了解Markdown:
+
 http://markdown.tw/ (http://daringfireball.net/projects/markdown/syntax)
+
 http://daringfireball.net/projects/markdown/syntax (http://daringfireball.net/projects/markdown/syntax)
 
