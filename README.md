@@ -29,7 +29,7 @@ Markdown語法可以很方便的進行簡單排版,而且非常好上手,身為�
 
 ##想更了解Markdown
 
-http://markdown.tw/ (http://daringfireball.net/projects/markdown/syntax)
+[http://markdown.tw/] (http://daringfireball.net/projects/markdown/syntax)
 
-http://daringfireball.net/projects/markdown/syntax (http://daringfireball.net/projects/markdown/syntax)
+[http://daringfireball.net/projects/markdown/syntax] (http://daringfireball.net/projects/markdown/syntax)
 
